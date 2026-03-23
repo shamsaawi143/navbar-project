@@ -40,9 +40,15 @@ Open index.html in your browser.
 
 You can view the live project here:
 
-https://your-username.github.io/navbar-project/
+https://shamsaawi143.github.io/navbar-project/
 
 (Enable GitHub Pages to make it live.)
+
+📸 Preview
+App Screenshot
+
+![navbar-project Screenshot](assets/Screenshot.png)
+
 
 📚 What I Learned
 How to build a responsive navbar
