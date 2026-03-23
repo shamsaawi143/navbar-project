@@ -33,7 +33,7 @@ Navigation links are hidden.
 Clicking the menu icon toggles the navigation menu using JavaScript.
 ⚙ Installation & Usage
 Clone the repository:
-git clone https://github.com/your-username/navbar-project.git
+git clone https://github.com/shamsaawi143/navbar-project.git
 Open the folder.
 Open index.html in your browser.
 🌍 Live Demo
